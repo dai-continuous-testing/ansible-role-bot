@@ -20,7 +20,7 @@ health_check_uri: "/manage/info"
 
 start_after_install: True
 
-__java_version: 17.0.3_7
+__java_version: 17.0.21_9
 clear_temp_folder: False
 
 custom_download_url: ""
